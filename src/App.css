@@ -36,11 +36,10 @@ h1{
  
  
  
-.board-row {
-  clear: both;
+.board-row:after {
+  /* clear: both; */
   content: "";
   display: table;
-  
  }
  
 .game {
