@@ -1,6 +1,7 @@
 h1{
   text-align:center;
   margin-top: 8%;
+  font-family: serif;
   
   
 }
@@ -72,6 +73,7 @@ ul {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  font-family: serif;
   
   
   /* margin-left: 20px; */
